@@ -62,9 +62,12 @@ cd canada-data-analytics-platform
 pip install -r requirements.txt
 ``` 
 
+---
 
 👨‍💻 Author
-Rohit Kedare
-📧 Email: rohitkedare12@gmail.com
-🔗 LinkedIn: https://www.linkedin.com/in/rohit-kedare-a552a11b4
 
+📫 Connect With Me
+- 📧 Email: rohitkedare12@gmail.com  
+- 🔗 LinkedIn: https://www.linkedin.com/in/rohit-kedare-a552a11b4  
+
+⭐ Feel free to explore my projects or reach out for collaboration and opportunities.
